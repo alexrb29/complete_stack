@@ -1,0 +1,12 @@
+node_modules/
+.next/
+out/
+build/
+coverage/
+.env*
+!.env.example
+*.tsbuildinfo
+.DS_Store
+
+# Copia local de la interfaz anterior
+respaldo-*.zip
